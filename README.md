@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nizmifitri
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me nizmianit@gmail.com
 
 <!---
